@@ -1,0 +1,191 @@
+body{
+
+}
+li{
+  display: inline-block;
+  justify-content: space-between; 
+  padding-left: 40px;
+  font-family: 'Poppins', sans-serif;
+}
+ul{
+    margin-left: 30%; 
+    
+}
+.nav{
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    color: darkgrey;
+}
+.san{
+    display: inline-block;
+    justify-content: space-between;
+    text-transform: uppercase;
+    margin-left: 10%;
+    font-family: 'Poppins', sans-serif;
+    color: darkgrey;
+}
+ol{
+    margin-right: 50%;
+    
+}
+.head{
+    margin-left: 50%;
+   font-family: 'Poppins', sans-serif;
+   text-align: center;
+   font-size: xx-large;
+    
+
+}
+.notes{
+    margin-left: 5%;
+}
+button{
+    border-radius: 30px;
+    padding: 16px 45px;
+    background-color: black;
+    text-decoration-color: white;
+    margin-left: 50%;
+    color: beige;
+    font-size: larger;
+    border: solid white;
+} 
+.new{
+    margin-left: 50%;
+    font-size: larger;
+    
+}
+.image{
+    width: 90%;
+    float: right;
+    margin-left: 100%;
+    background-color: cadetblue;
+   
+}
+.anin{
+    display: flex;
+
+}
+.aniy{
+font-family: 'Poppins', sans-serif;
+
+}
+.image1{
+    /* margin-left: 20%;
+    width: 15%;
+    height: 30%; */
+    display: flex;
+}
+img{
+    width: 70%;
+    
+}
+.image2{
+    display: flex;
+}
+.discount{
+    text-align: center;
+    font-size: larger;
+}
+.send{
+    text-align: left;
+    display: inline-block;
+    margin-left: 50%;
+    padding-top: 20px;
+}
+.two{
+    padding: 30px 20px;
+    display: inline-block;
+    margin-left: 15%;
+}
+.three{
+    padding: 20px 30px;
+    display: inline-block;
+    margin-left: 20%;
+}
+.all{
+    background-color: black;
+    color: beige;
+}
+.image3{
+    display: flex;
+}
+.image4{
+    margin-left: 50%;
+    float: left;
+    display: flex;
+    width: 70%;
+}
+.magazine{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+}
+.last{
+     display: flex;
+    margin-top: 30%;
+    justify-content: space-between;
+    color: beige;
+    
+}
+.terms{
+    display: flex;
+    justify-content: space-between;
+    color: azure;
+}
+.copy{
+  margin-left: 0%;
+}
+.condition{
+    margin-left: 10%;
+}
+.private{
+  margin-left: 30%;
+}
+.latest{
+    background-color: black;
+
+}
+ion-icon{
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.chair{
+    background-color: grey;
+}
+.sofa{
+    background-color: grey;
+}
+.bed{
+    background-color: grey;
+}
+.table{
+    background-color: grey;
+}
+.icon{
+    margin-left: 80%;
+}
+.dining{
+     background-color: gray;
+     text-align: centre;
+}
+.seat{
+background-color: gray;
+text-align: center;
+}
+.bigchair{
+    background-color: cadetblue;
+}
+.sit{
+    background-color: darkgrey;
+}
+.dinsit{
+    background-color: darkgrey;
+}
+.get{
+    margin-left: 50%;
+}
+.mag{
+    background-color: darkgrey;
+    display: flex;
+justify-content: space-between;
+}
